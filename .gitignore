@@ -1,0 +1,35 @@
+# Arduino build files
+*.ino.*
+*.elf
+*.bin
+
+# Environment files
+.env
+.env.*
+.envrc
+
+# Configuration files
+*.config
+*.conf
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+*.cfg
+*.hex
+*.eep
+*.map
+
+# Arduino libraries
+libraries/
+
+# Arduino sketchbook
+*.sketch
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
