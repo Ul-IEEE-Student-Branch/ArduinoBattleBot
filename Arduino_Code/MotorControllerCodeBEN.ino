@@ -1,5 +1,12 @@
 // Author: Ben and Chatgpt https://suno.com/song/71361c22-18f9-4d45-a371-dc579e969a36
 
+// OI README
+// This code uses the 2 and only 2 avaialble interupt pins on your dog Arudino Nano. 
+// We should use the ESP32, maybe this one is overkill but makes the point https://www.electronicwings.com/esp32/gpio-interrupt-of-esp32 64 interupts. 
+// Ideally as we have 8 channels on the reciever or more? we need preferably need an interupt pin for each. 
+// 1 untested change has been made, in setmotorspeeds pwmLeft has been inverted 2000, 1000. Check this
+// Sound
+
 #include <Arduino.h>
 #include <Servo.h>
 
