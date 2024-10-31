@@ -7,4 +7,7 @@ Slippage occurs at about 12kg of static pull force.
 
 The robot can push 23kg easily under testing. It can pull it in a striaght line also. Poor on the turns. 
 
+Robto weighs about 16.3kg at the moment
+
+
 
